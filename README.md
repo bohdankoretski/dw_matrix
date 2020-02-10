@@ -1,5 +1,5 @@
-# DataWorkshop educational 5 days challenge
+# DataWorkshop 5 days educational challenge
 * watch video
 * complete task
 * send report
-* move on with your machinelearning knowledge adn exp.
+* move on with your machinelearning knowledge and exp.
